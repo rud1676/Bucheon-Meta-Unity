@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969168149966",
+    "project_id": "bucheon-meta",
+    "storage_bucket": "bucheon-meta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969168149966:android:063d2eea82ab8d384a9f9f",
+        "android_client_info": {
+          "package_name": "com.bucheonmeta.app.ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969168149966-6efajsgic19ke0h6qs5ds4uugouevvfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1canUeGtqK5-HXuOy_lcLROzTmiSeJdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969168149966-6efajsgic19ke0h6qs5ds4uugouevvfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

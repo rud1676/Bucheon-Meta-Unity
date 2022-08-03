@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">969168149966</string>
+  <string name="google_storage_bucket" translatable="false">bucheon-meta.appspot.com</string>
+  <string name="project_id" translatable="false">bucheon-meta</string>
+  <string name="google_api_key" translatable="false">AIzaSyA1canUeGtqK5-HXuOy_lcLROzTmiSeJdU</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA1canUeGtqK5-HXuOy_lcLROzTmiSeJdU</string>
+  <string name="google_app_id" translatable="false">1:969168149966:android:063d2eea82ab8d384a9f9f</string>
+  <string name="default_web_client_id" translatable="false">969168149966-6efajsgic19ke0h6qs5ds4uugouevvfl.apps.googleusercontent.com</string>
+</resources>
